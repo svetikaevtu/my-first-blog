@@ -25,7 +25,7 @@ SECRET_KEY = '*7%+g2!(uqw!z%ppd)wd3(t6-w%2jk70o@+h289zxi8czv09%q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['svetika.pythonanywhere.com']
 
 
 # Application definition
